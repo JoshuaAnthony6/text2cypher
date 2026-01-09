@@ -1,1 +1,3 @@
 # text2cypher
+
+通过大模型deepseek将自然语言转换成Neo4j的cypher查询语句
